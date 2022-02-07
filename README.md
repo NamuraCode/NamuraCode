@@ -10,19 +10,19 @@ y la curiosidad de aprender e implementar tecnologías nuevas.
 
 ### Experiencia.
 
-> 👨‍💻 Mi trabajo actual, Fullstack en Makata Studio.
-> 💼 Protalento como Fullstack.
-> ⌨️ Semillero de investigación itadir SENA como investigador y generalista 3D.
+#### 👨‍💻 Mi trabajo actual, Fullstack en Makata Studio.
+#### 💼 Protalento como Fullstack.
+#### ⌨️ Semillero de investigación itadir SENA como investigador y generalista 3D.
 
 ### Estudios.
 
-> 🎬 Estudio producción de cine y videojuegos en PolygonUs.
-> 🖥️ Experiencia en paginas Web one page y multi page.
+#### 🎬 Estudio producción de cine y videojuegos en PolygonUs.
+#### 🖥️ Experiencia en paginas Web one page y multi page.
 
 #### contacto.
 
-> 📧 naranjo.david.1999@gmail.com
-> 📨 linkedin.com/in/david-naranjo/
+#### 📧 naranjo.david.1999@gmail.com
+#### 📨 linkedin.com/in/david-naranjo/
 
 
 <!--
