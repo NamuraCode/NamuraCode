@@ -21,7 +21,7 @@ y la curiosidad de aprender e implementar tecnologías nuevas.
   #### 💻 Animador 3D SENA.
   #### 💻 Zbrush SENA.
   
-#### Contacto.
+### Contacto.
 
   #### 📧 naranjo.david.1999@gmail.com
 
