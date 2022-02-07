@@ -22,7 +22,6 @@ y la curiosidad de aprender e implementar tecnologías nuevas.
 #### contacto.
 
 #### 📧 naranjo.david.1999@gmail.com
-#### 📨 linkedin.com/in/david-naranjo/
 
 
 <!--
