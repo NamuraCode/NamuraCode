@@ -1,6 +1,6 @@
 ### Hola 👋 me llamo David Naranjo.
 
->Desarrollador Full-Stack JavaScript de Digital House y la Universidad Pontificia Bolivariana. Con 
+ ####Desarrollador Full-Stack JavaScript de Digital House y la Universidad Pontificia Bolivariana. Con 
 competencias en, JavaScript, Python, Java, HTML y CSS. Gestión de repositorios con Git y Github. 
 Creación y consumo de APIS mediante tecnologías como NodeJs, Express y React. Y bases de datos SQL 
 (Mysql, sequelize) y NoSQL (MongoDb). Desde las cuales desarrolló soluciones digitales perdurables y 
@@ -10,18 +10,18 @@ y la curiosidad de aprender e implementar tecnologías nuevas.
 
 ### Experiencia.
 
-#### 👨‍💻 Mi trabajo actual, Fullstack en Makata Studio.
-#### 💼 Protalento como Fullstack.
-#### ⌨️ Semillero de investigación itadir SENA como investigador y generalista 3D.
+  #### 👨‍💻 Mi trabajo actual, Fullstack en Makata Studio.
+  #### 💼 Protalento como Fullstack.
+  #### ⌨️ Semillero de investigación itadir SENA como investigador y generalista 3D.
 
 ### Estudios.
 
-#### 🎬 Estudio producción de cine y videojuegos en PolygonUs.
-#### 🖥️ Experiencia en paginas Web one page y multi page.
+  #### 🎬 Estudio producción de cine y videojuegos en PolygonUs.
+  #### 🖥️ Experiencia en paginas Web one page y multi page.
 
 #### Contacto.
 
-#### 📧 naranjo.david.1999@gmail.com
+  #### 📧 naranjo.david.1999@gmail.com
 
 
 <!--
