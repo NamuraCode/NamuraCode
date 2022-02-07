@@ -19,7 +19,7 @@ y la curiosidad de aprender e implementar tecnologías nuevas.
 #### 🎬 Estudio producción de cine y videojuegos en PolygonUs.
 #### 🖥️ Experiencia en paginas Web one page y multi page.
 
-#### contacto.
+#### Contacto.
 
 #### 📧 naranjo.david.1999@gmail.com
 
