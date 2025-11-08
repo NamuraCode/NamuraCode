@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻 About Me:
 Desarrollador de Software, actualmente cursando Tecnología en Desarrollo de Software en la <br>Institución Universitaria Pascual Bravo, con formación complementaria en Digital House y <br>Misión TIC 2021. <br><br>Con competencias en JavaScript, TypeScript, Python, Java, C#, HTML y CSS, así como <br>experiencia en la creación y consumo de APIs REST, domino herramientas modernas como <br>Vite.js, Next.js, Astro, Framer, GSAP y CSS para el desarrollo de páginas web animadas, con <br>estructuras semánticas y SEO-friendly, aplicando prácticas de optimización de rendimiento <br>web. Trabajando en proyectos fullstack con el stack MERN, integrando modelos 3D <br>interactivos en aplicaciones web y móviles (iOS y Android).  <br><br>Manejo de Git y GitHub, incluyendo flujos de trabajo de CI/CD con GitHub Actions. desarrollo <br>tecnológico, aplicando metodologías ágiles SCRUM, tengo curiosidad constante, capacidad <br>de aprendizaje continuo y compromiso con la creación de soluciones digitales escalables, <br>sostenibles e innovadoras.
 
 
